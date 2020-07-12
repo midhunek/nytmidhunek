@@ -10,6 +10,7 @@ git clone https://github.com/midhunek/nytmidhunek.git
 # Technologies Used
   1. Kotlin
   2. MVVM + Retrofit + Hilt by (Dagger)
+  3. Coroutine
   4. DataBinding
   
 # Tools Used
