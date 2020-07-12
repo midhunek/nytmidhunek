@@ -16,5 +16,7 @@ git clone https://github.com/midhunek/nytmidhunek.git
   1. Android studio
   2. Simulator
   
-  
+## Maintainers
+This project is mantained by:
+* [Midhun E K ](https://github.com/midhunek)
   
